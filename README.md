@@ -18,6 +18,6 @@ Salary Data Generation: Developed and executed SQL scripts for the generation of
 
 Data Quality Assurance: Implemented rigorous data validation checks to guarantee accuracy and integrity. Verified that net amounts precisely equaled the sum of regular work amounts, bonus amounts, and overtime amounts. Enforced the correct allocation of vacation days within the specified range of 20 to 30.
 
-## Dashboard Preview :
+## Project Preview :
 
-<img src="Images/DB_diagram.png.png">
+<img src="Images/DB_diagram.png">
