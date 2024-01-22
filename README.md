@@ -20,5 +20,4 @@ Data Quality Assurance: Implemented rigorous data validation checks to guarantee
 
 ## Dashboard Preview :
 
-<img src="Images/IT Dashboard-1.png">
-<img src="Images/IT Dashboard-2.png">
+<img src="Images/DB_diagram.png.png">
