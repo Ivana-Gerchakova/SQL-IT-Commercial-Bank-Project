@@ -1,5 +1,5 @@
 # Project Title :
-SQL-IT-Commercial-Bank-Project
+SQL-IT-Commercial-Bank-Project.
 
 ## Project Overview :
 As an IT department employee in a commercial bank with a global presence, the project involves designing a comprehensive database for salary management of employees worldwide. 
